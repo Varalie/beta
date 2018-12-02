@@ -13,9 +13,8 @@ body {
   width: 320px;
 }
 
-.works .ramka {
-  margin-right: 10px;
-  margin-bottom: 10px;
+.works .location {
+  margin-bottom: 40px;
 
   text-align: center;
 }
