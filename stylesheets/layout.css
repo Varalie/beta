@@ -1,0 +1,25 @@
+body {
+  position: relative;
+
+  min-width: 320px;
+  height: 819px;
+
+  background: #FFFFFF;
+}
+
+.works {
+  overflow: hidden;
+
+  width: 320px;
+}
+
+.works .ramka {
+  margin-right: 10px;
+  margin-bottom: 10px;
+
+  text-align: center;
+}
+
+.works img {
+  width: 160px;
+}
